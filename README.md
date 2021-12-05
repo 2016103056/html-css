@@ -1,2 +1,2 @@
 # html-css
-Made a single responsive webpage to get a bit familiar with css. Basic character information page for The Owl House
+A responsive information page for Disney's channels The Owl House! Shows character icons, and displays upcoming episodes. A side project to get familiar with html and css and also how to make webpages responsive.
